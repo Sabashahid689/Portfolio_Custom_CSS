@@ -1,0 +1,25 @@
+.social-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Instagram{
+    font-size: 35px;
+    color: deeppink;
+    margin: 5px;
+}
+.Linkedin{
+    font-size: 35px;
+    color: deepskyblue;
+    margin: 5px;
+}
+.Discord{
+    font-size: 35px;
+    color: blue;
+    margin: 5px;
+}
+.Github{
+    font-size: 35px;
+    color: grey;
+    margin: 5px;
+}
